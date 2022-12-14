@@ -1,34 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-		http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
-		http://www.google.com/schemas/sitemap-image/1.1
-		http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
-	<url>
-		<loc>https://allien77.github.io/</loc>
-		<priority>1.0</priority>
-		<lastmod>2022-12-10T18:03:18+07:00</lastmod>		
- 	</url>
- 	<url>
-		<loc>https://allien77.github.io/alien138/</loc>
-		<priority>0.8</priority>
-		<lastmod>2022-12-10T18:03:18+07:00</lastmod>
-		<image:image>
-			<image:loc>https://image.server-cdn.net/al138/stock/bonus-slot.jpg</image:loc>
-			<image:title><![CDATA[Slot88 Situs Slot Gacor Online Terbaik RTP Tinggi]]></image:title>
-			<image:caption><![CDATA[allien77.github.io]]></image:caption>
-		</image:image>
- 	</url>
- 	<url>
-		<loc>https://allien77.github.io/toto-macau/</loc>
-		<priority>0.8</priority>
-		<lastmod>2022-12-10T18:03:18+07:00</lastmod>
-		<image:image>
-			<image:loc>https://image.server-cdn.net/tg-slf/asset/situs-togel-alientogel.jpg</image:loc>
-			<image:title><![CDATA[Togel Macau dan Data Keluaran Toto Macau]]></image:title>
-			<image:caption><![CDATA[allien77.github.io]]></image:caption>
-		</image:image>
- 	</url>
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+        http://www.google.com/schemas/sitemap-image/1.1
+        http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+    <url>
+        <loc>https://allien77.github.io/</loc>
+        <priority>1.0</priority>
+        <lastmod>2022-12-10T18:03:18+07:00</lastmod>        
+    </url>
+    <url>
+        <loc>https://allien77.github.io/alien138/</loc>
+        <priority>0.8</priority>
+        <lastmod>2022-12-10T18:03:18+07:00</lastmod>
+        <image:image>
+            <image:loc>https://image.server-cdn.net/al138/stock/bonus-slot.jpg</image:loc>
+            <image:title><![CDATA[Slot88 Situs Slot Gacor Online Terbaik RTP Tinggi]]></image:title>
+            <image:caption><![CDATA[allien77.github.io]]></image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://allien77.github.io/toto-macau/</loc>
+        <priority>0.8</priority>
+        <lastmod>2022-12-10T18:03:18+07:00</lastmod>
+        <image:image>
+            <image:loc>https://image.server-cdn.net/tg-slf/asset/situs-togel-alientogel.jpg</image:loc>
+            <image:title><![CDATA[Togel Macau dan Data Keluaran Toto Macau]]></image:title>
+            <image:caption><![CDATA[allien77.github.io]]></image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://allien77.github.io/idn-poker/</loc>
+        <priority>0.8</priority>
+        <lastmod>2022-12-15T18:03:18+07:00</lastmod>
+        <image:image>
+            <image:loc>https://image.server-cdn.net/pk/situs-judi-idn-poker-resmi.webp</image:loc>
+            <image:title><![CDATA[SITUS AGEN JUDI QQ RESMI IDN POKER ONLINE UANG ASLI TERPERCAYA]]></image:title>
+            <image:caption><![CDATA[allien77.github.io]]></image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://allien77.github.io/taruhan-bola/</loc>
+        <priority>0.8</priority>
+        <lastmod>2022-12-15T18:03:18+07:00</lastmod>
+        <image:image>
+            <image:loc>https://image.server-cdn.net/al138/stock/live-skor-bola.webp</image:loc>
+            <image:title><![CDATA[Sbobet88 Situs Judi Bola dan Agen Sbobet Resmi Piala Dunia]]></image:title>
+            <image:caption><![CDATA[allien77.github.io]]></image:caption>
+        </image:image>
+    </url>
  </urlset>
